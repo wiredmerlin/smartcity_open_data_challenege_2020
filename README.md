@@ -11,7 +11,7 @@ Hypothesis:
 
 4. Was there a change in where Mississauga residents commuted for work? Does this impact traffic and greenhouse emissions based on mode of transportation?
 
-Charts:  
+Dashboard:  
 Work-To-Residence Ratio Across Major Cities:  
 This chart looks at the ratio of residents to their place of work in Mississauga and its neighbouring cities. Mississauga has the highest ratio of residents to place of work compared to any cities.
 
